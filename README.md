@@ -246,7 +246,7 @@ TODOS
 - [Array.prototype.unshift](https://github.com/Sunny-117/Front-end-handwritten-question/issues/17)
 - [Array.prototype.copy](https://github.com/Sunny-117/Front-end-handwritten-question/issues/18)
 - [Array.prototype.getLevel](https://github.com/Sunny-117/Front-end-handwritten-question/issues/19)
-- [Array.prototype.interator](https://github.com/Sunny-117/js-challenges/issues/337)
+- [实现迭代器](https://github.com/Sunny-117/js-challenges/issues/337)
 - [实现 es6 的 set 集合](https://github.com/Sunny-117/Front-end-handwritten-question/issues/21)
 - [实现 es6 的 map 集合](https://github.com/Sunny-117/Front-end-handwritten-question/issues/22)
 - [String.prototype.zpadStart](https://github.com/Sunny-117/Front-end-handwritten-question/issues/23)
